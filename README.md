@@ -20,9 +20,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code><br><br>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-----
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador rogerkeithi">
+
+----
 
 ## ⭐ Informações sobre minha conta GitHub
 [![iuricode](https://github-readme-stats.vercel.app/api?username=rogerkeithi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
