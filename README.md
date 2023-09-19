@@ -1,9 +1,7 @@
-## Olá, meu nome é <strong>Roger Keithi!</strong>
+## Hi, my name is <strong>Roger Keithi!</strong>
 
-> Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal.
-> 
-
-🔭 No momento estou desenvolvendo uma agenda pessoal com CRUD e GUI em JAVA ☕.
+> Finishing my degree in systems development analyst.
+> NodeJS developer.
 
 💬 Estou aberto ao mercado de trabalho, procurando adquirir experiência e conhecimento em uma empresa de desenvolvimento.
 
