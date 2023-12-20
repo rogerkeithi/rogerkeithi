@@ -9,7 +9,8 @@
 
 ----
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerkeithi&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[//]: #[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerkeithi&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![rogerkeithi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerkeithi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ----
 
