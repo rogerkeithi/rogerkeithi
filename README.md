@@ -16,4 +16,7 @@
 
 ## ⭐ Informations about my github account
 ![rogerkeithi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerkeithi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+----
+
 ![rogerkeithi's Stats](https://github-readme-stats.vercel.app/api?username=rogerkeithi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
