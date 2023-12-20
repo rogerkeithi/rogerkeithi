@@ -6,6 +6,9 @@
 
 ## 🚀 Now working as a Fullstack NodeJS developer
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador rogerkeithi"/>
+
+----
+
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerkeithi&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
