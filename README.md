@@ -14,4 +14,4 @@
 ----
 
 ## ⭐ Informations about my github account
-[![iuricode](https://github-readme-stats.vercel.app/api?username=rogerkeithi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerkeithi&show_icons=true&theme=tokyonight)
