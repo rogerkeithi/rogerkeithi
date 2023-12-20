@@ -14,4 +14,4 @@
 ----
 
 ## ⭐ Informations about my github account
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerkeithi&show_icons=true&theme=tokyonight)
+![rogerkeithi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rogerkeithi&theme=vue-dark&hide_border=true)
