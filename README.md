@@ -1,10 +1,10 @@
 ## Hi, my name is <strong>Roger Keithi!</strong>
 
-> Finishing my degree in systems development analyst.
+> Graduated in Systems Analysis and Development.
 
 ----
 
-## 🚀 Now working as a Fullstack NodeJS developer
+## 🚀 Now working as a DevOps
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador rogerkeithi"/>
 
 ----
